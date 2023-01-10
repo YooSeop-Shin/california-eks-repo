@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 214813472555.dkr.ecr.us-west-2.amazonaws.com/oregon-frontend
   newName: 214813472555.dkr.ecr.us-west-2.amazonaws.com/oregon-frontend
-  newTag: e76186aa
+  newTag: d6adab9f
 resources:
 - ../../base
 patchesStrategicMerge:
